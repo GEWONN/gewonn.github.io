@@ -1,5 +1,5 @@
 ---
-title: About GLP
+title: Goals and values 
 feature_text: |
   # German Word Nerd Network
 feature_image: "/workspaces/gewonn.github.io/images/GewonnLogo.jpg"
