@@ -121,8 +121,9 @@ navigation_header:
   url: /elements/
 - title: News
   url: /news/
-- title: Categories
-  url: /categories/
+  subpages:
+  - title: Categories
+    url: /categories/
 - title: Search
   url: /search/
 
