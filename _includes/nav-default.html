@@ -13,9 +13,9 @@
 
           {% if item.collectionpage %}
             {% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
-            <a href="{{ url }}">{{ collectiondata.title }}</a>
+            <a class="dropdown-header"href="{{ url }}">{{ collectiondata.title }}</a>
           {% else %}
-            <a href="{{ url }}">{{ item.title }}</a>
+            <a class="dropdown-header"href="{{ url }}">{{ item.title }}</a>
           {% endif %}
           {% if section.subpages %}
             <ul class="dropdown-menu">
