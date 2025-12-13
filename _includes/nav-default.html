@@ -16,6 +16,13 @@
           {% else %}
             <a href="{{ url }}">{{ item.title }}</a>
           {% endif %}
+          {% if section.subpages %}
+          <ul class="dropdown-menu " >
+              {% for page in section.subpages %}
+              <li ><a class=“dropdown-item” href="{{ page.url }}">{{ page.title }}</a></li>
+              {% endfor %}
+          </ul>
+          {% endif %}
         </li>
       {% endunless %}
     {% endfor %}
