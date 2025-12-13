@@ -2,7 +2,7 @@
 title: Goals and values 
 feature_text: |
   # German Word Nerd Network
-feature_image: "/workspaces/gewonn.github.io/images/GewonnLogo.jpg"
+feature_image: "images/GewonnLogo.jpg"
 excerpt: "GeWoNN brings together language and reading researchers working on the German language and provides a forum for discussing research-specific questions and improvements in the field."
 ---
 
