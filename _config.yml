@@ -61,7 +61,7 @@ collections:
   news:
     title: News # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "GeWoNN News" # The post list page content
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
