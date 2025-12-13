@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if feature_text or feature_image %}
-  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }}); background-size: 100vw 100vh;"{% endif %}>
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }}); background-size: 35vh;"{% endif %}>
     <div class="container  typeset">
       {{ feature_text | markdownify }}
     </div>
