@@ -58,7 +58,7 @@ timezone: Europe/Berlin # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  news:
+  posts:
     title: News # Needed for Siteleaf
     output: true
     description: "GeWoNN News" # The post list page content
