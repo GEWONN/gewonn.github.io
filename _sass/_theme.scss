@@ -195,6 +195,10 @@ body {
     &:first-of-type {
       margin-left: 0;
     }
+    font-family: unquote(map-get($headingtype, font-family));
+    font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
+    font-style: normal;
+    font-weight: map-get($headingtype, bold);
   }
   &--current {
     a {

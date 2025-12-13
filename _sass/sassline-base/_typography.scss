@@ -31,25 +31,6 @@ a {
   }
 }
 
-// Nav bar.
-.nav.nav.nav--header {
-  a {
-    color: $linkColour;
-    text-decoration: none;
-    transition: color .1s, background-color .1s;
-
-    &:hover, &:active, &:focus {
-      color: $hoverColour;
-      text-decoration: none;
-    }
-
-    font-family: unquote(map-get($headingtype, font-family));
-    font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
-    font-style: normal;
-    font-weight: map-get($headingtype, bold);
-  }
-}
-
 // Styles for typeset text.
 .typeset {
 
