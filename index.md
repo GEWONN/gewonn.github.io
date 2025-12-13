@@ -1,5 +1,5 @@
 ---
-title: Goals and values
+title: Goals and Values
 feature_image: "images/GewonnLogo.jpg"
 excerpt: "GeWoNN brings together language and reading researchers working on the German language and provides a forum for discussing research-specific questions and improvements in the field."
 ---
