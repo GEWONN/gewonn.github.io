@@ -42,4 +42,8 @@
   window.addEventListener('resize', () => {
     collapseNav()
   })
+
+  // hide subnav items (css seems to get overwritten by something)
+  document.querySelectorAll('.list--subnav').forEach(el => el.style.display = 'none');
+
 </script>

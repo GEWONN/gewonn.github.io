@@ -6,8 +6,3 @@ styles: true
 @import "alembic";
 
 /* style for drop-down in nav bar */
-
-/* hide submenus by default */
-.item--nav > .list--subnav {
-    display: none !important;
-}
