@@ -1,6 +1,6 @@
 <nav class="nav">
   <ul class="list list--nav">
-    {% for item in site.navigation_header %}
+    {% for item in site.data.navigation.header %}
       {% include nav-item.html item=item level=0 %}
     {% endfor %}
   </ul>
