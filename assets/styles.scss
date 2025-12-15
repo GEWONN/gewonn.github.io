@@ -8,6 +8,6 @@ styles: true
 /* style for drop-down in nav bar */
 
 /* hide submenus by default */
-.item--nav .list--subnav {
+.nav .list--nav > .item--nav > .list--subnav {
   display: none;
 }
