@@ -1,0 +1,16 @@
+header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: News
+  url: /news/
+  subpages:
+  - title: Categories
+    url: /categories/
+- title: Search
+  url: /search/
+
+footer:
+- title: The German Word Nerd Network
+  url: https://gewonn.github.io/

@@ -114,22 +114,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Elements
-  url: /elements/
-- title: News
-  url: /news/
-  subpages:
-  - title: Categories
-    url: /categories/
-- title: Search
-  url: /search/
-
-navigation_footer:
-- title: The German Word Nerd Network
-  url: https://gewonn.github.io/
+# (navigation header and footer moved to _data/navigation.yml)
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   BlueSky: https://bsky.app/profile/gewonnofficial.bsky.social
