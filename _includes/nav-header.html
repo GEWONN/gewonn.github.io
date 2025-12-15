@@ -2,13 +2,6 @@
 <nav class="nav  nav--header">
   <ul class="list  list--nav">
     {% for item in site.data.navigation.header %}
-
-      <!-- {% if item.url contains '://' %}
-        {% assign url = item.url %}
-      {% else %}
-        {% assign url = item.url | relative_url %}
-      {% endif %} -->
-
       {% include nav-item.html item=item %}
     {% endfor %}
   </ul>

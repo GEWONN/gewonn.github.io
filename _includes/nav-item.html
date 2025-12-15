@@ -2,6 +2,8 @@
 
 <li class="item item--nav{% if item.url == page.url %}  item--current{% endif %}">
   <a href="{{ url }}">{{ item.title }}</a>
+  <!-- DEBUG! -->
+  {% item | jsonify %}
 
   {% if item.subpages %}
     <ul class="list list--subnav">
