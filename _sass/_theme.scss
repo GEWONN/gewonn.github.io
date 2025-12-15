@@ -206,10 +206,13 @@ body {
     }
   }
   .list--subnav {
-    display: none
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease;
   }
-  &:hover .list--subnav {
-    display: inline-block;
+  .item--nav:hover .list--subnav {
+    opacity: 1;
+    visibility: visible;
   }
 }
 
