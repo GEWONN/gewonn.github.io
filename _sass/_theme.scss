@@ -40,7 +40,7 @@ body {
   flex-direction: column-reverse;
   align-items: flex-end;
   justify-content: flex-end;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .feature {
@@ -176,7 +176,7 @@ body {
 .list {
   list-style: none;
   &--nav {
-    overflow: hidden;
+    overflow: visible;
     margin-bottom: var(--listHeight, 0);
   }
   .item--post,
@@ -200,22 +200,23 @@ body {
     font-style: normal;
     font-weight: map-get($headingtype, bold);
     position: relative;
+
+    .list--subnav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      white-space: nowrap;
+      z-index: 9999;
+    }
+    &:hover .list--subnav {
+      display: block;
+    }
   }
   &--current {
     a {
       color: $captionColour;
     }
-  }
-  .list--subnav {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    white-space: nowrap;
-    z-index: 9999;
-  }
-  &:hover .list--subnav {
-    display: block;
   }
 }
 
