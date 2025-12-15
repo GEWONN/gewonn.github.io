@@ -7,13 +7,15 @@ styles: true
 
 /* style for drop-down in nav bar */
 
-.item--nav {
+.nav .list--nav > .item--nav {
   position: relative;
 }
 
 /* hide submenus by default */
 .nav .list--nav > .item--nav > .list--subnav {
   display: none;
+  flex: none;
+  flex-direction: column;
   position: absolute;
   top: 100%;
   left: 0;
@@ -26,20 +28,13 @@ styles: true
   z-index: 1000;
 }
 
-.nav .list--subnav {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  flex-direction: column;
-  background: white;
-  margin: 0;
-  padding: 0.5rem 0;
-  list-style: none;
-  min-width: 10rem;
-  z-index: 1000;
-}
-
 /* show submenu on hover */
 .nav .list--nav > .item--nav:hover > .list--subnav {
   display: block;
+}
+
+/* don't flex sub-nav items */
+.nav .list--subnav > .item--nav {
+  display: block;
+  width: 100%;
 }
