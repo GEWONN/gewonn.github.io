@@ -1,0 +1,13 @@
+{% assign url = item.url | relative_url %}
+
+<li class="item item--nav{% if page.url == item.url %} item--current{% endif %}">
+  <a href="{{ url }}">{{ item.title }}</a>
+
+  {% if item.subpages %}
+    <ul class="list list--subnav">
+      {% for subitem in item.subpages %}
+        {% include nav-item.html item=subitem %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+</li>
