@@ -10,7 +10,7 @@
   {% if item.subpages %}
     <ul class="list list--subnav">
       {% for subitem in item.subpages %}
-        <li class="item item--nav{% if subitem.url == page.url %}  item--current{% endif %}">
+        <li class="item item--nav{% if subitem.url == page.url %}  item--current{% else %}item--noncurrentchild{% endif %}">
           <a href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
         </li>
       {% endfor %}
