@@ -199,9 +199,14 @@ body {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+    position: relative;
 
     .list--subnav {
-      display: none
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      white-space: nowrap
     }
     &:hover .list--subnav {
       display: block;
