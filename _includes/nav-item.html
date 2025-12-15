@@ -1,12 +1,12 @@
 {% assign url = item.url | relative_url %}
 
-<li class="item item--nav">
+<li class="item item--nav{% if item.url == page.url %}  item--current{% endif %}">
   <a href="{{ url }}">{{ item.title }}</a>
 
   {% if item.subpages %}
     <ul class="list list--subnav">
       {% for subitem in item.subpages %}
-        <li class="item item--nav">
+        <li class="item item--nav{% if item.url == page.url %}  item--current{% endif %}">
           <a href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
         </li>
       {% endfor %}
