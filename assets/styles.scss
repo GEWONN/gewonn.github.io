@@ -7,34 +7,7 @@ styles: true
 
 /* style for drop-down in nav bar */
 
-.nav .list--nav > .item--nav {
-  position: relative;
-}
-
 /* hide submenus by default */
-.nav .list--nav > .item--nav > .list--subnav {
+.item--nav .list--subnav {
   display: none;
-  flex: none;
-  flex-direction: column;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  min-width: 10rem;
-  background: white;
-  padding: 0.5rem 0;
-  margin: 0;
-  list-style: none;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  z-index: 1000;
-}
-
-/* show submenu on hover */
-.nav .list--nav > .item--nav:hover > .list--subnav {
-  display: block;
-}
-
-/* don't flex sub-nav items */
-.nav .list--subnav > .item--nav {
-  display: block;
-  width: 100%;
 }
