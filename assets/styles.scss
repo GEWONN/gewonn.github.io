@@ -12,7 +12,7 @@ styles: true
 }
 
 /* hide submenus by default */
-.list--subnav {
+.nav .list--nav > .item--nav > .list--subnav {
   display: none;
   position: absolute;
   top: 100%;
@@ -27,6 +27,6 @@ styles: true
 }
 
 /* show submenu on hover */
-.item--nav:hover > .list--subnav {
+.nav .list--nav > .item--nav:hover > .list--subnav {
   display: block;
 }
