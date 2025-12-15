@@ -3,7 +3,6 @@
 <li class="item item--nav">
   <a href="{{ url }}">{{ item.title }}</a>
 
-  <!-- DEBUG! {{ item.subpages | jsonify }} -->
   {% if item.subpages %}
     <ul class="list list--subnav">
       {% for subitem in item.subpages %}
