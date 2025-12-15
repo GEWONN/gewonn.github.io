@@ -206,7 +206,10 @@ body {
     }
   }
   .list--subnav {
-    display: none
+    display: none;
+    &:hover {
+      display: inline-block;
+    }
   }
 }
 
