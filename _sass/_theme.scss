@@ -206,10 +206,10 @@ body {
     }
   }
   .list--subnav {
-    display: none;
-    &:hover {
-      display: inline-block;
-    }
+    display: none
+  }
+  &:hover .list--subnav {
+    display: inline-block;
   }
 }
 
