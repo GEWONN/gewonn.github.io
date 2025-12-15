@@ -26,6 +26,19 @@ styles: true
   z-index: 1000;
 }
 
+.nav .list--subnav {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  flex-direction: column;
+  background: white;
+  margin: 0;
+  padding: 0.5rem 0;
+  list-style: none;
+  min-width: 10rem;
+  z-index: 1000;
+}
+
 /* show submenu on hover */
 .nav .list--nav > .item--nav:hover > .list--subnav {
   display: block;
