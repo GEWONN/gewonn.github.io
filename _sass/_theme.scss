@@ -199,20 +199,18 @@ body {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+
+    .list--subnav {
+      display: none
+    }
+    &:hover .list--subnav {
+      display: block;
+    }
   }
   &--current {
     a {
       color: $captionColour;
     }
-  }
-  .list--subnav {
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.2s ease;
-  }
-  .item--nav:hover .list--subnav {
-    opacity: 1;
-    visibility: visible;
   }
 }
 
