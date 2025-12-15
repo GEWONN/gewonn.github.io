@@ -3,10 +3,10 @@
 <li class="item item--nav{% if page.url == item.url %} item--current{% endif %}">
   <a href="{{ url }}">{{ item.title }}</a>
 
-  {% if item.subpages %}
+  {% if item.subpages and level < 5 %}
     <ul class="list list--subnav">
       {% for subitem in item.subpages %}
-        {% include nav-item.html item=subitem %}
+        {% include nav-item.html item=subitem level=level | plus: 1 %}
       {% endfor %}
     </ul>
   {% endif %}
