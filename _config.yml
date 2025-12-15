@@ -40,6 +40,7 @@ paginate_path: news/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://bsky.app/profile/ # jekyll-mentions > service used when @replying
 author: GeWoNN # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
+  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
   name: The German Word Nerd Network # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://bsky.app/profile/gewonnofficial.bsky.social
