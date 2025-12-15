@@ -1,4 +1,5 @@
 {% assign url = item.url | relative_url %}
+{% assign next_level = level | plus: 1 %}
 
 <li class="item item--nav{% if page.url == item.url %} item--current{% endif %}">
   <a href="{{ url }}">{{ item.title }}</a>
@@ -6,7 +7,7 @@
   {% if item.subpages and level < 5 %}
     <ul class="list list--subnav">
       {% for subitem in item.subpages %}
-        {% include nav-item.html item=subitem level=level | plus: 1 %}
+        {% include nav-item.html item=subitem level=next_level %}
       {% endfor %}
     </ul>
   {% endif %}
