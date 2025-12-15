@@ -209,7 +209,8 @@ body {
       white-space: nowrap;
       z-index: 9999;
     }
-    &:hover .list--subnav {
+    &:hover .list--subnav,
+    &:focus-within .list--subnav {
       display: block;
     }
   }
