@@ -38,3 +38,8 @@ styles: true
   display: block;
   width: 100%;
 }
+
+/* test that hiding works? */
+.list--subnav {
+  display: none !important;
+}
