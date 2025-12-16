@@ -218,6 +218,15 @@ body {
       white-space: nowrap;
       z-index: 9999;
     }
+    @media (max-width: 639px) {
+      .list--subnav {
+        position: static;
+        left: auto;
+        transform: none;
+        text-align: left;
+        white-space: normal;
+      }
+    }
     &:hover .list--subnav,
     &:focus-within .list--subnav {
       display: block;
