@@ -212,6 +212,7 @@ body {
     &:hover .list--subnav,
     &:focus-within .list--subnav {
       display: block;
+      background-color: #ffffff;
     }
   }
   &--current {
