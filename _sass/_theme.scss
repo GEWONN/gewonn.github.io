@@ -216,8 +216,10 @@ body {
       display: block;
       background-color: #ffffff;
     }
-    .list--subnav .item--nav {
-      display: inline-block !important;
+    @include breakpoint(break-1) {
+      .list--subnav .item--nav {
+        display: inline-block;
+      }
     }
   }
   &--current {
