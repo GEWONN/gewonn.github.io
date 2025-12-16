@@ -207,14 +207,16 @@ body {
       top: 100%;
       left: 50%;
       transform: translateX(-50%);
+      text-align: center;
       z-index: 9999;
     }
     &:hover .list--subnav,
     &:focus-within .list--subnav {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+      display: block;
       background-color: #ffffff;
+    }
+    .list--subnav li {
+      display: inline-block;
     }
   }
   &--current {
