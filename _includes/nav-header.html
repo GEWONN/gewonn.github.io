@@ -44,22 +44,38 @@
   })
 
   // handle taps on nav bar parents
-  document.querySelectorAll('.item--nav.has-subnav > a').forEach(link => {
-  link.addEventListener('click', function (e) {
-    const item = this.parentElement;
+  (function () {
+    const links = document.querySelectorAll('.item--nav.has-subnav > a');
+    if (!links.length) return;
 
-    // Touch devices only
-    if (window.matchMedia('(hover: none)').matches) {
-      if (!item.classList.contains('is-open')) {
-        e.preventDefault();          // block navigation
-        item.classList.add('is-open'); // first tap opens submenu
-      }
-      // second tap can navigate to a tag href
-    }
-  });
+    const isTouch = window.matchMedia('(hover: none)').matches;
+    if (!isTouch) return;
 
+    links.forEach(link => {
+      link.addEventListener('click', function (e) {
+        const item = this.parentElement;
 
-});
+        // first tap only opens the submenu
+        if (!item.classList.contains('is-open')) {
+          e.preventDefault();
+          e.stopPropagation();
+          item.classList.add('is-open');
+          this.setAttribute('aria-expanded', 'true');
+        }
+        // second tap can navigate to a tag href
+      });
+    });
 
+    // submenu gets closed when tapping outside
+    document.addEventListener('click', e => {
+      document.querySelectorAll('.item--nav.is-open').forEach(item => {
+        if (!item.contains(e.target)) {
+          item.classList.remove('is-open');
+          const link = item.querySelector('a');
+          if (link) link.setAttribute('aria-expanded', 'false');
+        }
+      });
+    });
+  })();
 
 </script>
