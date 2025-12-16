@@ -35,6 +35,13 @@ body {
   }
 }
 
+.header {
+  .container {
+    padding: 0;
+    padding-bottom: 2rem;
+  }
+}
+
 .header .nav {
   display: flex;
   flex-direction: column-reverse;
