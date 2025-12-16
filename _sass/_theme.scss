@@ -205,8 +205,9 @@ body {
       display: none;
       position: absolute;
       top: 100%;
-      left: 0;
-      white-space: nowrap;
+      left: 50%;
+      transform: translateX(-50%);
+      white-space: normal;
       z-index: 9999;
     }
     &:hover .list--subnav,
