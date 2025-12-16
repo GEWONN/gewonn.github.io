@@ -208,6 +208,7 @@ body {
       left: 50%;
       transform: translateX(-50%);
       text-align: center;
+      white-space: nowrap;
       z-index: 9999;
     }
     &:hover .list--subnav,
@@ -215,8 +216,8 @@ body {
       display: block;
       background-color: #ffffff;
     }
-    .list--subnav li {
-      display: inline-block;
+    .list--subnav .item--nav {
+      display: inline-block !important;
     }
   }
   &--current {
