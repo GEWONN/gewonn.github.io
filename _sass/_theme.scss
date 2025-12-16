@@ -207,12 +207,13 @@ body {
       top: 100%;
       left: 50%;
       transform: translateX(-50%);
-      white-space: normal;
       z-index: 9999;
     }
     &:hover .list--subnav,
     &:focus-within .list--subnav {
-      display: block;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
       background-color: #ffffff;
     }
   }
