@@ -87,7 +87,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "GeWoNN" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/GewonnLogo_small.jpg" # Site logo, also used in jekyll-seo-tag
 description: "GeWoNN brings together language and reading researchers working on the German language and provides a forum for discussing research-specific questions and improvements in the field. We value openness, honesty, fairness, and inclusivity, and hope to attract members who are genuinely interested in improving reading research and academia, more generally." # Site description and default description, also used in jekyll-seo-tag
 url: "https://gewonn.github.io/" # Site url, also used in jekyll-seo-tag
