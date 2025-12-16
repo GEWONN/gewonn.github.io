@@ -1,6 +1,17 @@
 header:
 - title: Home
   url: /
+- title: About Us
+  url: /
+  subpages:
+  - title: History & Goals
+    url: /
+  - title: Members
+    url: /
+  - title: Code of Conduct
+    url: /
+  - title: Join Us
+    url: /
 - title: Elements
   url: /elements/
 - title: News
