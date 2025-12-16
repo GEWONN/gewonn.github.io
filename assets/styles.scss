@@ -4,11 +4,3 @@ styles: true
 ---
 
 @import "alembic";
-
-/* style for drop-down in nav bar */
-
-/* show upon hover */
-.item--nav:hover .list--subnav {
-    display: block !important;
-}
-
