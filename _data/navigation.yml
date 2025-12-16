@@ -5,20 +5,34 @@ header:
   url: /
   subpages:
   - title: History & Goals
-    url: /
+    url: /history-goals/
   - title: Members
-    url: /
+    url: /members/
   - title: Code of Conduct
-    url: /
+    url: /coc/
   - title: Join Us
-    url: /
-- title: Elements
-  url: /elements/
+    url: /join/
+- title: Events
+  url: /events/
+  subpages:
+  - title: TRUST Open Lecture 2025
+    url: /trust-open-lecture-2025/
+  - title: QuaSemO 2024
+    url: /quasemo/
+  - title: Past Events
+    url: /past-events/
+- title: TRUST Network
+  url: /trust/
+  subpages:
+  - title: TRUST Members
+    url: /trust-members/
 - title: News
   url: /news/
   subpages:
   - title: Categories
     url: /categories/
+- title: Journal Club
+  url: /journal-club/
 - title: Search
   url: /search/
 
