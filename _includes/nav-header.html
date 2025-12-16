@@ -42,4 +42,22 @@
     collapseNav()
   })
 
+  // touch-device-friendly subnav toggle
+  // - first click/tap on a parent should reveal all subitems, second click on a parent should navigate
+  if ('ontouchstart' in window) {
+    const parentLinks = document.querySelectorAll('.item--nav > a');
+    parentLinks.forEach(link => {
+      if (link.nextElementSibling && link.nextElementSibling.classList.contains('list--subnav')) {
+        link.addEventListener('click', function(e) {
+          const subnav = this.nextElementSibling;
+          if (subnav.style.display === 'none' || subnav.style.display === '') {
+            e.preventDefault();
+            subnav.style.display = 'block';
+          }
+          // if subnav is already open, the second click should allow navigation
+        });
+      }
+    });
+  }
+
 </script>
