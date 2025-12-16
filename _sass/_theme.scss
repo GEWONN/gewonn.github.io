@@ -209,12 +209,21 @@ body {
       white-space: nowrap;
       z-index: 9999;
     }
-    &:hover .list--subnav,
-    &:focus-within .list--subnav {
+    
+    .item--nav.is-open > .list--subnav {
       display: block;
-      background-color: #ffffff;
     }
+
+    /* Desktop hover */
+    @media (hover: hover) {
+      .item--nav:hover > .list--subnav {
+        display: block;
+        background-color: #ffffff;
+      }
+    }
+
   }
+
   &--current {
     a {
       color: $captionColour;

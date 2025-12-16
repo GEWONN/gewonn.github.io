@@ -43,4 +43,23 @@
     collapseNav()
   })
 
+  // handle taps on nav bar parents
+  document.querySelectorAll('.item--nav.has-subnav > a').forEach(link => {
+  link.addEventListener('click', function (e) {
+    const item = this.parentElement;
+
+    // Touch devices only
+    if (window.matchMedia('(hover: none)').matches) {
+      if (!item.classList.contains('is-open')) {
+        e.preventDefault();          // block navigation
+        item.classList.add('is-open'); // first tap opens submenu
+      }
+      // second tap can navigate to a tag href
+    }
+  });
+
+
+});
+
+
 </script>
