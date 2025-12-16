@@ -21,17 +21,16 @@
   // Hide nav and apply toggle
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      navList.style.display = 'none';
     } else {
-      navList.removeAttribute('style')
+      navList.style.display = 'block';
     }
 
     button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
-      if (navList.style.getPropertyValue('--listHeight')) {
-        navList.style.removeProperty('--listHeight')
+      if (navList.style.display === 'none') {
+        navList.style.display = 'block';
       } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+        navList.style.display = 'none';
       }
     }
   }
