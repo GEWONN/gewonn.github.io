@@ -2,7 +2,7 @@ header:
 - title: Home
   url: /
 - title: About Us
-  url: /
+  url: /about-us/
   subpages:
   - title: History & Goals
     url: /history-goals/
