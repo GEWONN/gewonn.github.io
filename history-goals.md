@@ -5,4 +5,4 @@ excerpt: "How was GeWoNN founded? It all started with a tweet..."
 
 How was GeWoNN founded? It all started with a tweet...
 
-{% include figure.html image="images/tweet_screenshot.png" width="100%" %}
+{% include figure.html image="https://gewonn.github.io/images/tweet_screenshot.png" width="100%" %}
