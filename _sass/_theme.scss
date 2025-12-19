@@ -150,13 +150,14 @@ body {
 
 .two-columns {
   display: flex;
+  flex-direction: column;
   gap: 1rem;
   align-items: flex-start;
   > div {
     flex: 1;
   }
   @include breakpoint(break-1) {
-    flex-direction: column;
+    flex-direction: row;
   }
 }
 
