@@ -1,7 +1,7 @@
 ---
 title: Goals and Values
 feature_image: "images/GewonnLogo.jpg"
-excerpt: "GeWoNN brings together language and reading researchers working on the German language and provides a forum for discussing research-specific questions and improvements in the field."
+excerpt: "GeWoNN is a network of researchers interested in language and reading in the German language. GeWoNN's members are spread across multiple European institutions, and meet to discuss research-specific questions and improvements in the field."
 ---
 
-GeWoNN brings together language and reading researchers working on the German language and provides a forum for discussing research-specific questions and improvements in the field. We value openness, honesty, fairness, and inclusivity, and hope to attract members who are genuinely interested in improving reading research and academia, more generally. 
+GeWoNN is a network of researchers interested in language and reading in the German language. GeWoNN's members are spread across multiple European institutions, and meet to discuss research-specific questions and improvements in the field. We value openness, honesty, fairness, and inclusivity, and hope to attract members interested in improving reading research, and academia more generally.
