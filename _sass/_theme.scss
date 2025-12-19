@@ -152,7 +152,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  align-items: flex-start;
+  align-items: var(--align-items, flex-start);
   > div:first-child {
     flex: 0 0 var(--left-width, 50%);
   }
