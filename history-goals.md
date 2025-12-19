@@ -46,7 +46,7 @@ We welcome anyone who would like to join us, and we expect respectful and profes
 
 <div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
   <div>
-    <h5>Meet our Members</h5>
+    <h5><a href="/members">Meet our Members</a></h5>
     <p>Our network is spread across multiple institutions in Europe. The members are predominantly Early Career Researchers.</p>
   </div>
   <div>
