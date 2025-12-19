@@ -18,7 +18,7 @@ excerpt: "How was GeWoNN founded? It all started with a tweet..."
 
 <hr>
 
-<div class="two-columns" style="--left-width: 50%; --right-width: 50%; --align-items: center;">
+<div class="two-columns" style="--left-width: 60%; --right-width: 40%; --align-items: center;">
   <div>
     <h5>Our Goals and Values</h5>
     <p>GeWoNN brings together language and reading researchers working on the German language and provides a forum for discussing research-specific questions and improvements in the field. We value openness, honesty, fairness, and inclusivity, and hope to attract members who are genuinely interested in improving reading research and academia, more generally.</p>
