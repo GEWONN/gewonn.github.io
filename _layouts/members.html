@@ -10,9 +10,16 @@ layout: default
 
     {% for member in site.data.members %}
     <div class="member">
-      <img src="{{ member.image }}" alt="{{ member.name }}">
-      <h5>{{ member.name }}</h5>
-      <p><strong>{{ member.role }}</strong></p>
+
+      <div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
+        <div>
+          <img src="{{ member.image }}" alt="{{ member.name }}">
+        </div>
+        <div>
+          <h5>{{ member.name }}</h5>
+          <p><strong><b>{{ member.role }}</b></strong></strong></p>
+        </div>
+      </div>
     </div>
     {% endfor %}
 
