@@ -164,6 +164,21 @@ body {
   }
 }
 
+.members-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  .member {
+    flex: 0 0 calc(50% - 1rem);
+    box-sizing: border-box;
+  }
+  @include breakpoint(break-0) {
+    .member {
+      flex: 0 0 100%;
+    }
+  }
+}
+
 .share .button {
   margin-right: .3rem;
 }
