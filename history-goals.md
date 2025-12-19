@@ -3,7 +3,7 @@ title: History & Goals
 excerpt: "How was GeWoNN founded? It all started with a tweet..."
 ---
 
-<div class="two-columns">
+<div class="two-columns" style="--left-width: 70%; --right-width: 30%;">
   <div>
     How was GeWoNN founded? It all started with a tweet...
   </div>
