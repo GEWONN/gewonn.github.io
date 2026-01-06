@@ -1,60 +1,60 @@
-- name:: Dr. Anna Laurinavichyute
+- name: Dr. Anna Laurinavichyute
   affiliation: University of Potsdam
   research: Eye-tracking, Russian, reproducibility of statistical modeling
-- name:: Prof. Dr. Ascension Pagán
+- name: Prof. Dr. Ascension Pagán
   affiliation: University of Leicester
   research: Eye-tracking, EEG, English, Spanish, reading development
-- name:: Jun.-Prof. Dr. Benjamin Gagl
+- name: Jun.-Prof. Dr. Benjamin Gagl
   affiliation: University of Cologne
   research: M/EEG, computational modeling
-- name:: Prof. Dr. Davide Crepaldi
+- name: Prof. Dr. Davide Crepaldi
   affiliation: International School for Advanced Studies (SISSA) Trieste
   research: Eye-tracking, Italian, orthography-semantics interface
-- name:: Prof. Dr. Falk Huettig
+- name: Prof. Dr. Falk Huettig
   affiliation: MPI for Psycholinguistics, Nijmengen
   research: Illiterates, fMRI
-- name:: Dr. Franziska Kretzschmar
+- name: Dr. Franziska Kretzschmar
   affiliation: Leibniz-Institut für Deutsche Sprache, Mannheim
   research: M/EEG, reading across the lifespan
-- name:: Dr. Fritz Günther
+- name: Dr. Fritz Günther
   affiliation: Humboldt University Berlin
   research: Computational modeling, (distributional) semantics, pseudowords
-- name:: Dr. Jack Taylor
+- name: Dr. Jack Taylor
   affiliation: Goethe University Frankfurt
   research: English, visual and orthographic processing, resources for stimuli selection/generation
-- name:: Dr. Jana Hasenäcker
+- name: Dr. Jana Hasenäcker
   affiliation: University of Erfurt
   research: Reading acquisition, longitudinal studies, morphology
-- name:: Prof. Dr. Jascha Rüsseler
+- name: Prof. Dr. Jascha Rüsseler
   affiliation: Otto-Friedrich-University Bamberg
   research: (Functional) illiterates, low literacy, dyslexia
-- name:: Prof. Dr. Karin Landerl
+- name: Prof. Dr. Karin Landerl
   affiliation: Karl-Franzens University of Graz
   research: Reading acquisition, Austrian German, cross-linguistic reading research
-- name:: Prof. Dr. Marc Brysbaert
+- name: Prof. Dr. Marc Brysbaert
   affiliation: University of Ghent
   research: Large-scale studies/mega studies, cross-linguistic studies, Dutch, resources for stimuli seletion/generation
-- name:: Dr. Markus Hofmann
+- name: Dr. Markus Hofmann
   affiliation: University of Wuppertal
   research: Computational modeling
-- name:: Prof. Dr. Ralph Radach
+- name: Prof. Dr. Ralph Radach
   affiliation: University of Wuppertal
   research: Eye-tracking, computational modeling
-- name:: Prof. Dr. Sascha Schroeder
+- name: Prof. Dr. Sascha Schroeder
   affiliation: Georg-August-University of Göttingen
   research: Eye-tracking, reading acquisition, language corpora
-- name:: Prof. Dr. Sebastian Wallot
+- name: Prof. Dr. Sebastian Wallot
   affiliation: Leuphana University of Lüneburg
   research: Eye-tracking
-- name:: Prof. Dr. Silvia Brem
+- name: Prof. Dr. Silvia Brem
   affiliation: University of Zurich
   research: Swiss German, EEG/fMRI, dyslexia, reading acquisition
-- name:: Dr. Tanja Roembke
+- name: Dr. Tanja Roembke
   affiliation: RWTH Aachen University
   research: Reading acquisition, bilingualism, L2-learning
-- name:: Dr. Ulrich Ludewig
+- name: Dr. Ulrich Ludewig
   affiliation: Dortmund University
   research: (Large-scale) reading assessment, test development, adaptive testing
-- name:: Dr. habil. Xenia Schmalz
+- name: Dr. habil. Xenia Schmalz
   affiliation: Ludwig-Maximilian University Munich
   research: Cross-linguistic studies, dyslexia, Open Science
