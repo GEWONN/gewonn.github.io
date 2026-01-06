@@ -17,7 +17,7 @@ layout: default
             {% for subpage in item.subpages %}
                 {% assign subpage_page = site.pages | where: "url", subpage.url | first %}
                 <li class="item  item--result">
-                <article class="article  typeset">
+                <article class="article  typeset" style="margin-bottom: 1rem;">
                     <div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
                         <div>
                             {% if subpage_page.subnav-image != nil %}<a href="{{ subpage.url }}"><img src="{{ subpage_page.subnav-image }}"></a>{% endif %}
