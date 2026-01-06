@@ -4,7 +4,7 @@ excerpt: "The GeWoNN Journal Club"
 subnav-image: "/images/journal-club.jpg"
 ---
 
-<div class="two-columns" style="--left-width: 40%; --right-width: 60%; --align-items: center;">
+<div class="two-columns" style="--left-width: 50%; --right-width: 50%; --align-items: center;">
   <div>
     Welcome to the GeWoNN Journal Club! We meet once a month to discuss articles related to word and reading research. For more info, check out our past meetings. If you would like to join our Journal Club or present in our meetings, please fill out <a href="https://forms.gle/TY6Cuxut87EjJE8u9">this form</a> or contact us at <a href="mailto:gewonn.contact.us@gmail.com">gewonn.contact.us@gmail.com</a>.
   </div>
