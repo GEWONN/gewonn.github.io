@@ -6,6 +6,7 @@ subnav-image: "/images/members/missing.jpg"
 
 #### Meet the TRUST Network!
 
+<br>
 <div class="trust-members-list">
 {% for member in site.data.trust-members %}
 <p><b>{{ member.name }}</b></p>
