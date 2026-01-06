@@ -21,6 +21,7 @@ layout: default
         </div>
         <div>
           <h5 class="member-name">{{ member.name }}</h5>
+          {% if member.affiliation != nil %}<p class="member-affiliation">{{ member.affiliation }}</p>{% endif %}
           {% if member.role != nil %}<p class="member-role">{{ member.role }}</p>{% endif %}
         </div>
       </div>
