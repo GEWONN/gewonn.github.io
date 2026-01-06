@@ -28,9 +28,10 @@ Learning to read involves the formation and tuning of letter representations, bu
 
 ### Journal Club Organisers
 
-* Anna Leung (Ludwig-Maximilians-University of Munich, Germany)
-
-* Jack E. Taylor (Goethe University Frankfurt, Germany)
+<ul style="padding-left: 1.2rem">
+  <li>Anna Leung (Ludwig-Maximilians-University of Munich, Germany)</li>
+  <li>Jack E. Taylor (Goethe University Frankfurt, Germany)</li>
+</ul>
 
 <hr>
 
