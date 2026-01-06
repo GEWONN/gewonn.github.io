@@ -13,7 +13,7 @@ subnav-image: "/images/journal-club.jpg"
   </div>
 </div>
 
-<h5>Journal Club Organisers</h4>
+<h5>Journal Club Organisers</h5>
 
 <ul style="padding-left: 1.2rem">
   <li>Anna Leung (Ludwig-Maximilians-University of Munich, Germany)</li>
