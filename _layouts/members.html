@@ -6,7 +6,7 @@ layout: default
 
 <main class="main  container">
 
-  <div class="content members-grid">
+  <div class="content members-grid members-page">
 
     {% for member in site.data.members %}
     <div class="member">
@@ -20,8 +20,8 @@ layout: default
           {% endif %}
         </div>
         <div>
-          <h5>{{ member.name }}</h5>
-          {% if member.role != nil %}<p><strong><b>{{ member.role }}</b></strong></p>{% endif %}
+          <h5 class="member-name">{{ member.name }}</h5>
+          {% if member.role != nil %}<p class="member-role">{{ member.role }}</p>{% endif %}
         </div>
       </div>
     </div>

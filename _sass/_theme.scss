@@ -148,6 +148,19 @@ body {
   }
 }
 
+// styles for members page
+.members-page {
+  h5 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .member-role {
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+}
+
 .two-columns {
   display: flex;
   flex-direction: column;
