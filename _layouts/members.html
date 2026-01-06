@@ -6,9 +6,11 @@ layout: default
 
 <main class="main  container">
 
-  {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
+  <article class="article  article--page  content  typeset">
 
-  <div class="content members-grid members-page">
+    {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
+
+    <div class="members-grid members-page">
 
     {% for member in site.data.members %}
     <div class="member">
@@ -31,7 +33,9 @@ layout: default
     </div>
     {% endfor %}
 
-  </div>
+    </div>
+
+  </article>
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
