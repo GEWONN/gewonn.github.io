@@ -20,6 +20,7 @@ layout: default
                 <article class="article  typeset">
                     <h4><a href="{{ subpage.url }}">{{ subpage.title }}</a></h4>
                     <p>{{ subpage_page.excerpt }}</p>
+                    {% if subpage_page.subnav-image != nil %}<img src="{{ subpage_page.subnav-image }}">{% endif %}
                 </article>
                 </li>
             {% endfor %}
