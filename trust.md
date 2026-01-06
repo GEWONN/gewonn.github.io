@@ -12,7 +12,7 @@ We have regular meetings during which we strive to develop best practice guides 
 ### The TRUST Network Mission
 
 <div style="display: block; margin: auto;">
-  {% include figure.html image="/images/trust-outcomes.png" width="90%" %}
+  {% include figure.html image="/images/trust-outcomes.png" width="80%" %}
 </div>
 
 <p>
