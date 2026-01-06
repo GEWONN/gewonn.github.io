@@ -4,7 +4,7 @@ excerpt: "The TRUST network aims to build a transparent, transferable, and susta
 subnav-image: "/images/members/missing.jpg"
 ---
 
-## Meet the TRUST Network!
+#### Meet the TRUST Network!
 
 <div class="trust-members-list">
 {% for member in site.data.trust-members %}
