@@ -17,7 +17,7 @@ layout: default
         </div>
         <div>
           <h5>{{ member.name }}</h5>
-          <p><strong><b>{{ member.role }}</b></strong></p>
+          {% if member.role != nil %}<p><strong><b>{{ member.role }}</b></strong></p>{% endif %}
         </div>
       </div>
     </div>
