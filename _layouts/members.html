@@ -13,7 +13,7 @@ layout: default
 
       <div class="two-columns" style="--left-width: 30%; --right-width: 70%;">
         <div>
-          {% if member.image == nil %}
+          {% if member.image != nil %}
           <img src="{{ member.image }}" alt="{{ member.name }}">
           {% else %}
           <img src="/images/members/missing.jpg" alt="{{ member.name }}">
