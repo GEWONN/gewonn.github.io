@@ -6,7 +6,7 @@ subnav-image: "/images/journal-club.jpg"
 
 <div class="two-columns" style="--left-width: 50%; --right-width: 50%; --align-items: center;">
   <div>
-    Welcome to the GeWoNN Journal Club! We meet once a month to discuss articles related to word and reading research. For more info, check out our past meetings. If you would like to join our Journal Club or present in our meetings, please fill out <a href="https://forms.gle/TY6Cuxut87EjJE8u9">this form</a> or contact us at <a href="mailto:gewonn.contact.us@gmail.com">gewonn.contact.us@gmail.com</a>.
+    Welcome to the GeWoNN Journal Club! We meet once a month to discuss articles related to word and reading research. For more info, check out our past meetings. If you would like to join our Journal Club or present in our meetings, please <a href="https://bsky.app/profile/gewonnofficial.bsky.social">send us a private message via Bluesky</a>.
   </div>
   <div>
     {% include figure.html image="https://gewonn.github.io/images/journal-club-screenshot.png" width="100%" %}
