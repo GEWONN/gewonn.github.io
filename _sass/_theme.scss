@@ -183,12 +183,12 @@ body {
     background: none;
     border: none;
     cursor: pointer;
-    color: $bodyColour;
+    color: $buttonColour;
     font-size: 1.2em;
     padding: 0;
     margin: 0;
     &:hover {
-      color: $hoverColour;
+      color: $buttonHoverColour;
     }
   }
   .member-research {
