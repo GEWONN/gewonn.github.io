@@ -17,8 +17,8 @@ layout: default
             {% for subpage in item.subpages %}
                 <li class="item  item--result">
                 <article class="article  typeset">
-                    <h4><a href="${subpage.url}">${subpage.title}</a></h4>
-                    <p>${subpage.excerpt}</p>
+                    <h4><a href="{ subpage.url }">{ subpage.title }</a></h4>
+                    <p>{ subpage.excerpt }</p>
                 </article>
                 </li>
             {% endfor %}
