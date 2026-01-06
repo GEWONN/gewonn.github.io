@@ -1,7 +1,7 @@
 ---
 title: History & Goals
 excerpt: "How was GeWoNN founded? It all started with a tweet..."
-subnav-image: "images/GewonnLogo.jpg"
+subnav-image: "/images/GewonnLogo.jpg"
 ---
 
 <br>

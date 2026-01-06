@@ -1,7 +1,7 @@
 ---
 title: Becoming a Member of GeWoNN
 excerpt: "Want to join the GeWoNN Network?"
-subnav-image: "images/typewriter-welcome.jpg"
+subnav-image: "/images/typewriter-welcome.jpg"
 ---
 
 <p>

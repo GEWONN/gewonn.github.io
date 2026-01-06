@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 excerpt: "The GeWoNN Code of Conduct"
-subnav-image: "images/document.jpg"
+subnav-image: "/images/document.jpg"
 ---
 
 * You should try to minimise the chances of conflict by being open-minded and accepting of others. Understand that we each have a unique set of values, and we are all entitled to our own opinions;
