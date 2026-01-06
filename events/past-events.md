@@ -31,7 +31,7 @@ subnav-image: "/images/international-conference.jpg"
 
 <br>
 
-<div class="two-columns" style="--left-width: 60%; --right-width: 40%; --align-items: center;">
+<div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
   <div>
     {% include figure.html image="/images/teap_2024.png" width="100%" %}
   </div>
