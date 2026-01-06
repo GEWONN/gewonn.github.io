@@ -8,9 +8,7 @@ Welcome to the GeWoNN Journal Club! We meet once a month to discuss articles rel
 
 <hr>
 
-### Next Meeting
-
-*January 21, 2026 (Wednesday), 9:00 am–10:00 pm (CET)*
+### Next Meeting: January 21, 2026 (Wednesday), 9:00 am–10:00 pm (CET)
 
 Guest Talk by *Dr Kurt Winsler (University of California, Davis)*
 
