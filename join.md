@@ -5,7 +5,7 @@ excerpt: "How was GeWoNN founded? It all started with a tweet..."
 
 <br>
 
-<div class="two-columns" style="--left-width: 70%; --right-width: 30%; --align-items: center;">
+<div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
   <div>
     {% include figure.html image="/images/typewriter-welcome.jpg" width="100%" %}
   </div>
