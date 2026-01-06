@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+{% for item in site.data.navigation.header %}
+  {% if item.url == page.url %}
+    {% if item.subpages %}
+      <ul>
+      {% for subpage in item.subpages %}
+        <li><a href="{{ subpage.url }}">{{ subpage.title }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+{% endfor %}
