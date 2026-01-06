@@ -8,6 +8,20 @@ subnav-image: "/images/international-conference.jpg"
 
 <div class="two-columns" style="--left-width: 40%; --right-width: 60%; --align-items: center;">
   <div>
+    {% include figure.html image="/images/cologne.png" width="100%" %}
+  </div>
+  <div>
+    <h5>TRUST Open Lecture 2025</h5>
+    <p>In March 2025, we held our first TRUST open lecture in Cologne, presented by <a href="https://research.ugent.be/web/person/marc-brysbaert-0/en">Prof. Marc Brysbaert</a> (Department of Experimental Psychology, Ghent University, Belgium) on the topic of <i>Increasing Replicability or Stalling Scientific Progress?</i>. After the talk there was a dynamic panel session, featuring <a href="https://kvonholzen.github.io/">Dr. Katie von Holzen</a> (Department of Linguistics, Technical University of Braunschweig, Germany), <a href="https://elenlefoll.eu/">Dr. Elen Le Foll</a> (Department of Romance Studies, University of Cologne, Germany), and <a href="https://soccco.uni-koeln.de/gloeckner-group-team/andreas-gloeckner">Prof. Dr. Andreas Glöckner</a> (Department of Psychology, University of Cologne, Germany). The panel session was moderated by <a href="https://msleungyi.github.io/mywebsite/">Anna Leung</a> (Department of Child and Adolescent Psychiatry, Psychosomatics, and Psychotherapy, University Hospital, Ludwig-Maximilians-University of Munich, Germany).</p>
+  </div>
+</div>
+
+<hr>
+
+<br>
+
+<div class="two-columns" style="--left-width: 40%; --right-width: 60%; --align-items: center;">
+  <div>
     
   </div>
   <div>
