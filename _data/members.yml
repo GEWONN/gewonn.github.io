@@ -54,6 +54,7 @@
 - name: "Dr. Jack E. Taylor"
   job: "Postdoctoral Researcher"
   affiliation: "Goethe University Frankfurt, Germany"
+  role: "Journal Club Secretary"
   research: "Jack is interested in using computational modelling to understand the cognitive and neural bases of word recognition, reading, and language processes. His work focuses on understanding the orthographic and visual processing of letters and words. He is currently based in the Lab for Cognitive Neuroscience at Goethe University Frankfurt with Christian Fiebach."
   image: "/images/members/taylor.jpg"
 
