@@ -24,11 +24,6 @@ header:
   subpages:
   - title: TRUST Members
     url: /trust-members/
-- title: News
-  url: /news/
-  subpages:
-  - title: Categories
-    url: /categories/
 - title: Journal Club
   url: /journal-club/
 - title: 🔎︎
