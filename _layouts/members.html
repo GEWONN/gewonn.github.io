@@ -27,9 +27,13 @@ layout: default
           <h5 class="member-name"><a href="{{ member.url }}">{{ member.name }}</a></h5>
           {% if member.affiliation != nil %}<p class="member-affiliation">{{ member.affiliation }}</p>{% endif %}
           {% if member.role != nil %}<p class="member-role">{{ member.role }}</p>{% endif %}
-          <hr>
+          <div class="hr-container">
+            <hr>
+            {% if member.research != nil %}
+            <button onclick="toggleResearch(this.parentElement.nextElementSibling, this)" class="research-toggle">▼</button>
+            {% endif %}
+          </div>
           {% if member.research != nil %}
-          <button onclick="toggleResearch(this.nextElementSibling, this)" class="research-toggle">▼</button>
           <div class="member-research" style="display:none;">{{ member.research }}</div>
           {% endif %}
         </div>

@@ -200,6 +200,16 @@ body {
     font-size: 1rem;
     line-height: 1.2rem;
   }
+  .hr-container {
+    display: flex;
+    align-items: center;
+    hr {
+      flex: 1;
+    }
+    .research-toggle {
+      margin-left: 0.5rem;
+    }
+  }
 }
 
 .two-columns {
