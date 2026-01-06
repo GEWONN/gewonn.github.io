@@ -39,7 +39,7 @@ The activities of GeWoNN include (but are not limited to) monthly journal clubs,
 
 <hr>
 
-##### <a href="/coc">Code of Conduct</a>
+##### <a href="/code-of-conduct">Code of Conduct</a>
 
 We welcome anyone who would like to join us, and we expect respectful and professional behaviour from the side of all members. We reserve the right to exclude participants who do not adhere to the code of conduct from the Discord channel. If you have any concerns about anyone’s behaviour, please contact our mediators. 
 
