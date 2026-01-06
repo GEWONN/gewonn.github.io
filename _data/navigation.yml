@@ -15,12 +15,10 @@ header:
 - title: Events
   url: /events/
   subpages:
-  - title: TRUST Open Lecture 2025
-    url: /trust-open-lecture-2025/
-  - title: QuaSemO 2024
-    url: /quasemo/
+  - title: TRUST Open Lecture 2026
+    url: /events/trust-open-lecture-2026/
   - title: Past Events
-    url: /past-events/
+    url: /events/past-events/
 - title: TRUST Network
   url: /trust/
   subpages:
