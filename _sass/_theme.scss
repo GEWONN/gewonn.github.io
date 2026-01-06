@@ -150,6 +150,9 @@ body {
 
 // styles for members page
 .members-page {
+  .member {
+    cursor: pointer;
+  }
   h5 {
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
