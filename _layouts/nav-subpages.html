@@ -15,10 +15,11 @@ layout: default
             {% if item.subpages %}
             <ul class="list  list--results">
             {% for subpage in item.subpages %}
+                {% assign subpage_page = site.pages | where: "url", subpage.url | first %}
                 <li class="item  item--result">
                 <article class="article  typeset">
                     <h4><a href="{{ subpage.url }}">{{ subpage.title }}</a></h4>
-                    <p>{{ subpage.excerpt }}</p>
+                    <p>{{ subpage_page.excerpt }}</p>
                 </article>
                 </li>
             {% endfor %}
