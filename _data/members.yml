@@ -66,3 +66,58 @@
 - name: "Sara Chilson"
   job: "Doctoral Student"
   affiliation: "University of Munich, Germany"
+
+- name: "Artémis Kalamari"
+  job: "Master's Student"
+  affiliation: "University of Grenoble, France"
+
+- name: "Sanha Lee"
+  job: "Doctoral Student"
+  affiliation: "University of Zurich, Switzerland"
+
+- name: "Anna Leung"
+  job: "Doctoral Student"
+  affiliation: "University of Munich, Germany"
+  role: "Journal Club Secretary"
+  research: "Anna is a Chinese language teacher in Hong Kong primary and secondary schools by training. In the hope of bridging education and research, she furthered her studies in psychology and the learning sciences. Her work revolves around the subtypes of developmental dyslexia across languages, psychometrics in psycholinguistics, and the philosophy of language."
+  image: "/images/members/leung.jpg"
+
+- name: "Lina Della Libera"
+  job: "MSc Graduate"
+  affiliation: "University of Munich, Germany"
+
+- name: "Tatiana Logvinenko"
+  job: "Doctoral Student"
+  affiliation: "University of Munich, Germany"
+
+- name: "Ksenija Mišić"
+  job: "Doctoral Student"
+  affiliation: "University of Belgrade, Serbia"
+  image: "/images/members/mišić.jpg"
+
+- name: "Janos Pauli"
+  job: "Doctoral Student"
+  affiliation: "University of Cologne, Germany"
+  research: "Janos is a PhD student working at the Self Learning Systems Lab. He studies the neuro-cognitive aspects of visual letter and word perception by combining computer vision models, neuroimaging data, and machine learning techniques."
+  image: "/images/members/pauli.jpg"
+
+- name: "Peter Roßmeier"
+  job: "MSc Graduate"
+  affiliation: "University of Munich, Germany"
+
+- name: "Matilde Ellen Simonetti"
+  job: "Doctoral Student"
+  affiliation: "RWTH Aachen University, Germany"
+  research: "Matilde is currently a PhD student working under the supervision of Tanja Roembke. She is interested in word learning, sometimes with the help of eye-tracking, especially in bilingual populations."
+  image: "/images/members/simonetti.jpg"
+
+- name: "Jing Tong"
+  job: "Doctoral Student"
+  affiliation: "RWTH Aachen University, Germany"
+
+- name: "Hanna Woloszyn"
+  job: "Doctoral Student"
+  role: "Student Assistant, TRUST Network"
+  affiliation: "University of Cologne, Germany"
+  research: "Hanna is currently contributing as a research assistant at the Self Learning Systems Lab at the University of Cologne, where she gets to engage in impactful projects in the field of computational linguistics and cognitive science. She is also a doctoral student with a focus on computational linguistics and discourse studies."
+  image: "/images/members/woloszyn.jpg"
