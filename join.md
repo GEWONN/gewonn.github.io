@@ -1,5 +1,5 @@
 ---
-title: Becoming a member of GeWoNN
+title: Becoming a Member of GeWoNN
 excerpt: "Want to join the GeWoNN Network?"
 ---
 
