@@ -167,6 +167,18 @@ body {
   .member-image {
     max-height: 350px;
   }
+  hr {
+    background-image: none;
+    background-position: initial;
+    background-repeat: initial;
+    background-size: initial;
+    border: 0;
+    margin: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    border-top: 1px solid #ccc;
+    margin: 1rem 0;
+  }
 }
 
 .two-columns {
