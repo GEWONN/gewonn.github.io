@@ -189,6 +189,10 @@ body {
     margin: 0;
     &:hover {
       color: $buttonHoverColour;
+      box-shadow: none;
+    }
+    &:focus {
+      outline: none;
     }
   }
   .member-research {
