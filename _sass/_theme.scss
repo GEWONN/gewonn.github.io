@@ -192,6 +192,7 @@ body {
       box-shadow: none;
     }
     &:focus {
+      color: $buttonColour;
       outline: none;
       box-shadow: none;
     }
