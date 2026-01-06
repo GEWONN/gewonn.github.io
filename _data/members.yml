@@ -37,3 +37,32 @@
   affiliation: "University of Belgrade, Serbia"
   research: "The properties of the cognitive system shape the structure of language. Dušica is trying to understand how language relates to learning and memory by focusing simultaneously on intra-linguistic distributional information and the links between language and perceptual experience. Her research is guided by the desire to describe and understand the immense sensitivity of the cognitive system to probabilities in the environment in general and language in particular."
   image: "/images/members/đurđević.jpg"
+
+- name: "Dr. Wanlu Fu"
+  job: "Postdoctoral Researcher"
+  affiliation: "University of Cologne, Germany"
+  role: "Journal Club Secretary"
+  research: "Wanlu is interested in the cognitive and neural mechanisms of reading using eye-tracking, EEG, and computational modeling, focusing on reading difficulties (e.g., dyslexia) across alphabetic (English, German) and logographic (Chinese) scripts. Her work aims to inform evidence-based teaching strategies, early interventions, and diagnostic tools to support reading development."
+  image: "/images/members/fu.jpg"
+
+- name: "Dr. Alexandra Schmitterer"
+  job: "Postdoctoral Researcher"
+  affiliation: "DIPF|Leibniz Institute for Research and Information in Education, Germany"
+  research: "Alexandra is currently an associated scientist at the DIPF | Leibniz Institute for Research and Information in Education in Frankfurt. By training, she is a clinical linguist and a psychologist with a specialisation in school psychology. Her research interests focus on reading and language development, learning, emotion as well as teacher education. She is an experienced project coordinator for citizen science projects and gives university courses to student teachers."
+  image: "/images/members/schmitterer.png"
+
+- name: "Dr. Jack E. Taylor"
+  job: "Postdoctoral Researcher"
+  affiliation: "Goethe University Frankfurt, Germany"
+  research: "Jack is interested in using computational modelling to understand the cognitive and neural bases of word recognition, reading, and language processes. His work focuses on understanding the orthographic and visual processing of letters and words. He is currently based in the Lab for Cognitive Neuroscience at Goethe University Frankfurt with Christian Fiebach."
+  image: "/images/members/taylor.jpg"
+
+- name: "Sara Anđelić"
+  job: "Doctoral Student"
+  affiliation: "University of Belgrade, Serbia"
+  research: "Sara is currently conducting her research as a junior research assistant at the Laboratory for Experimental Psychology in Belgrade, Serbia. She is interested in understanding how the idea of the importance of perceptual information postulated by models of embodied cognition fits with the traditionally understood idea of mental representation. In dealing with this issue, she exploits the ambiguity of words."
+  image: "/images/members/anđelić.jpg"
+
+- name: "Sara Chilson"
+  job: "Doctoral Student"
+  affiliation: "University of Munich, Germany"
