@@ -24,10 +24,16 @@
   job: "Postdoctoral Researcher"
   affiliation: "RWTH Aachen University, Germany"
   research: "Tanja investigates how people learn new words, read and switch between languages. More recently, she has also been interested in how different language processes interact with memory."
-  image: "/images/members/roembke.png"
+  image: "/images/members/roembke.jpg"
 
 - name: "Dr. Dave Kenneth Tayao Cayado"
   job: "Postdoctoral Researcher"
   affiliation: "Royal Holloway, University of London, UK"
   research: "Dr. Dave Kenneth Tayao Cayado is a {neuro/psycho}linguist working on morphological processing and reading acquisition. He is currently a British Academy Postdoctoral Research Fellow in the Rastle Lab at Royal Holloway, University of London's Department of Psychology."
-  image: "/images/members/cayado.png"
+  image: "/images/members/cayado.jpg"
+
+- name: "Prof. Dušica Filipović Đurđević"
+  job: "Full Professor"
+  affiliation: "University of Belgrade, Serbia"
+  research: "The properties of the cognitive system shape the structure of language. Dušica is trying to understand how language relates to learning and memory by focusing simultaneously on intra-linguistic distributional information and the links between language and perceptual experience. Her research is guided by the desire to describe and understand the immense sensitivity of the cognitive system to probabilities in the environment in general and language in particular."
+  image: "/images/members/đurđević.jpg"
