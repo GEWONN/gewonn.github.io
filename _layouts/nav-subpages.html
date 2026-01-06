@@ -18,9 +18,15 @@ layout: default
                 {% assign subpage_page = site.pages | where: "url", subpage.url | first %}
                 <li class="item  item--result">
                 <article class="article  typeset">
-                    <h4><a href="{{ subpage.url }}">{{ subpage.title }}</a></h4>
-                    <p>{{ subpage_page.excerpt }}</p>
-                    {% if subpage_page.subnav-image != nil %}<img src="{{ subpage_page.subnav-image }}">{% endif %}
+                    <div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
+                        <div>
+                            {% if subpage_page.subnav-image != nil %}<a href="{{ subpage.url }}"><img src="{{ subpage_page.subnav-image }}"></a>{% endif %}
+                        </div>
+                        <div>
+                            <h4><a href="{{ subpage.url }}">{{ subpage.title }}</a></h4>
+                            <p>{{ subpage_page.excerpt }}</p>
+                        </div>
+                    </div>
                 </article>
                 </li>
             {% endfor %}
