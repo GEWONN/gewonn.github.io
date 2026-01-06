@@ -13,9 +13,14 @@ layout: default
     {% for item in site.data.navigation.header %}
         {% if item.url == page.url %}
             {% if item.subpages %}
-            <ul>
+            <ul class="list  list--results">
             {% for subpage in item.subpages %}
-                <li><a href="{{ subpage.url }}">{{ subpage.title }}</a></li>
+                <li class="item  item--result">
+                <article class="article  typeset">
+                    <h4><a href="${subpage.url}">${subpage.title}</a></h4>
+                    <p>${subpage.excerpt}</p>
+                </article>
+                </li>
             {% endfor %}
             </ul>
             {% endif %}
