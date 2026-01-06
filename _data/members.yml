@@ -7,6 +7,7 @@
   image: "/images/members/schmalz.jpg"
 
 - name: "Jun.-Prof. Dr. Benjamin Gagl"
+  url: "https://selflearningsystems.uni-koeln.de/"
   role: "Founding Member"
   job: "Assistant Professor"
   affiliation: "University of Munich, Germany"
@@ -14,6 +15,7 @@
   image: "/images/members/gagl.png"
 
 - name: "Dr. Jana Hasenäcker"
+  url: "https://janahasenacker.wordpress.com/"
   role: "Founding Member"
   job: "Postdoctoral Researcher"
   affiliation: "University of Erfurt, Germany"
@@ -21,6 +23,7 @@
   image: "/images/members/hasenäcker.png"
 
 - name: "Dr. Tanja Roembke"
+  url: "https://tanjaroembke.net/"
   role: "Founding Member"
   job: "Postdoctoral Researcher"
   affiliation: "RWTH Aachen University, Germany"
@@ -28,12 +31,14 @@
   image: "/images/members/roembke.jpg"
 
 - name: "Dr. Dave Kenneth Tayao Cayado"
+  url: "https://sites.google.com/view/dk-cayado/about-me"
   job: "Postdoctoral Researcher"
   affiliation: "Royal Holloway, University of London, UK"
   research: "Dr. Dave Kenneth Tayao Cayado is a {neuro/psycho}linguist working on morphological processing and reading acquisition. He is currently a British Academy Postdoctoral Research Fellow in the Rastle Lab at Royal Holloway, University of London's Department of Psychology."
   image: "/images/members/cayado.jpg"
 
 - name: "Prof. Dušica Filipović Đurđević"
+  url: "https://dusicafilipovicdurdevic.net/"
   job: "Full Professor"
   affiliation: "University of Belgrade, Serbia"
   research: "The properties of the cognitive system shape the structure of language. Dušica is trying to understand how language relates to learning and memory by focusing simultaneously on intra-linguistic distributional information and the links between language and perceptual experience. Her research is guided by the desire to describe and understand the immense sensitivity of the cognitive system to probabilities in the environment in general and language in particular."
@@ -53,6 +58,7 @@
   image: "/images/members/schmitterer.png"
 
 - name: "Dr. Jack E. Taylor"
+  url: "https://jackedtaylor.github.io/"
   job: "Postdoctoral Researcher"
   affiliation: "Goethe University Frankfurt, Germany"
   role: "Journal Club Secretary"
@@ -70,6 +76,7 @@
   affiliation: "University of Munich, Germany"
 
 - name: "Artémis Kalamari"
+  url: "https://www.linkedin.com/in/artemis-kalamari-16125a211/"
   job: "Master's Student"
   affiliation: "University of Grenoble, France"
 
@@ -78,6 +85,7 @@
   affiliation: "University of Zurich, Switzerland"
 
 - name: "Anna Leung"
+  url: "https://msleungyi.github.io/mywebsite/"
   job: "Doctoral Student"
   affiliation: "University of Munich, Germany"
   role: "Journal Club Secretary"
@@ -118,6 +126,7 @@
   affiliation: "RWTH Aachen University, Germany"
 
 - name: "Hanna Woloszyn"
+  url: "http://www.linkedin.com/in/hannawoloszyn"
   job: "Doctoral Student"
   role: "Student Assistant, TRUST Network"
   affiliation: "University of Cologne, Germany"
