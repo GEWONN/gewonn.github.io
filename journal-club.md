@@ -12,6 +12,7 @@ subnav-image: "/images/journal-club.jpg"
     {% include figure.html image="https://gewonn.github.io/images/journal-club-screenshot.png" width="100%" %}
   </div>
 </div>
+<br>
 
 <h5>Journal Club Organisers</h5>
 
