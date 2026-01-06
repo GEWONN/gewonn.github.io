@@ -34,6 +34,7 @@ Learning to read involves the formation and tuning of letter representations, bu
 <hr>
 
 <h4>Past Meetings</h4>
+<br>
 
 <div class="journal-club-meeting-list">
 {% for meeting in site.data.journal-club-meetings %}
