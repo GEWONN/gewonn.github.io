@@ -180,22 +180,22 @@ body {
     margin: 1rem 0;
   }
   .research-toggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: $bodyColour;
-  font-size: 1.2em;
-  padding: 0;
-  margin: 0;
-  &:hover {
-    color: $hoverColour;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: $bodyColour;
+    font-size: 1.2em;
+    padding: 0;
+    margin: 0;
+    &:hover {
+      color: $hoverColour;
+    }
   }
-}
-.member-research {
-  margin-top: 1rem;
-  font-size: 1rem;
-  line-height: 1.2rem;
-}
+  .member-research {
+    margin-top: 1rem;
+    font-size: 1rem;
+    line-height: 1.2rem;
+  }
 }
 
 .two-columns {
