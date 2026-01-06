@@ -36,9 +36,9 @@ Learning to read involves the formation and tuning of letter representations, bu
 
 ### Past Meetings
 
-<div style="font-size: 1rem; line-height: 1.2rem; padding-top: 0.25rem; margin-bottom: 0.25rem;">
+<div class="journal-club-meeting-list">
 {% for meeting in site.data.journal-club-meetings %}
-<i>{{ meeting.date }}</i>
+<p><i>{{ meeting.date }}</i></p>
 <p>{{ meeting.description }}</p>
 <hr>
 {% endfor %}
