@@ -13,7 +13,7 @@ layout: default
     <div class="members-grid members-page">
 
     {% for member in site.data.members %}
-    <div class="member">
+    <div class="member" onclick="toggleResearchForMember(this, event)">
 
       <div class="two-columns" style="--left-width: 30%; --right-width: 70%;">
         <div>
@@ -53,6 +53,14 @@ layout: default
       } else {
         content.style.display = 'none';
         button.innerHTML = '▼';
+      }
+    }
+    function toggleResearchForMember(memberDiv, event) {
+      if (event.target.closest('a') || event.target.closest('.research-toggle')) return;
+      const button = memberDiv.querySelector('.research-toggle');
+      const research = memberDiv.querySelector('.member-research');
+      if (research) {
+        toggleResearch(research, button);
       }
     }
   </script>
