@@ -23,7 +23,8 @@ subnav-image: "/images/journal-club.jpg"
 
 <hr>
 
-### Next Meeting: January 21, 2026 (Wednesday), 9:00 am–10:00 pm (CET)
+### Next Meeting:
+### January 21, 2026 (Wednesday), 9:00 am–10:00 pm (CET)
 
 Guest Talk by *Dr Kurt Winsler (University of California, Davis)*
 
