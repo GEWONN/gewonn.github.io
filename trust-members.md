@@ -1,6 +1,6 @@
 ---
-title: The TRUST Network
-excerpt: "The TRUST network aims to build a transparent, transferable, and sustainable foundation for psycholinguistic reading studies in German. The Network will bring together more than 20 researchers in the field to develop transferable and sustainable guidelines for researchers to address critical challenges, including methodological robustness, reproducibility, generalisability, and statistical power."
+title: TRUST Network Members
+excerpt: "Meet members of the TRUST network!"
 subnav-image: "/images/members/missing.jpg"
 ---
 
