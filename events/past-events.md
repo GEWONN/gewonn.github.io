@@ -14,8 +14,9 @@ subnav-image: "/images/international-conference.jpg"
   <div>
     {% include figure.html image="/images/cologne.jpg" width="100%" %}
   </div>
-  <p>After the talk there was a dynamic panel session, featuring <a href="https://kvonholzen.github.io/">Dr. Katie von Holzen</a> (Department of Linguistics, Technical University of Braunschweig, Germany), <a href="https://elenlefoll.eu/">Dr. Elen Le Foll</a> (Department of Romance Studies, University of Cologne, Germany), and <a href="https://soccco.uni-koeln.de/gloeckner-group-team/andreas-gloeckner">Prof. Dr. Andreas Glöckner</a> (Department of Psychology, University of Cologne, Germany). The panel session was moderated by <a href="https://msleungyi.github.io/mywebsite/">Anna Leung</a> (Department of Child and Adolescent Psychiatry, Psychosomatics, and Psychotherapy, University Hospital, Ludwig-Maximilians-University of Munich, Germany).</p>
 </div>
+
+<p>After the talk there was a dynamic panel session, featuring <a href="https://kvonholzen.github.io/">Dr. Katie von Holzen</a> (Department of Linguistics, Technical University of Braunschweig, Germany), <a href="https://elenlefoll.eu/">Dr. Elen Le Foll</a> (Department of Romance Studies, University of Cologne, Germany), and <a href="https://soccco.uni-koeln.de/gloeckner-group-team/andreas-gloeckner">Prof. Dr. Andreas Glöckner</a> (Department of Psychology, University of Cologne, Germany). The panel session was moderated by <a href="https://msleungyi.github.io/mywebsite/">Anna Leung</a> (Department of Child and Adolescent Psychiatry, Psychosomatics, and Psychotherapy, University Hospital, Ludwig-Maximilians-University of Munich, Germany).</p>
 
 <hr>
 
