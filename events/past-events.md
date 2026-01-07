@@ -9,7 +9,7 @@ subnav-image: "/images/international-conference.jpg"
 <div class="two-columns" style="--left-width: 60%; --right-width: 40%; --align-items: center;">
   <div>
     <h5>TRUST Open Lecture 2025</h5>
-    <p>In March 2025, we held our first TRUST open lecture in Cologne, presented by <a href="https://research.ugent.be/web/person/marc-brysbaert-0/en">Prof. Marc Brysbaert</a> (Department of Experimental Psychology, Ghent University, Belgium) on the topic of <i>Increasing Replicability or Stalling Scientific Progress?</i>.</p>
+    <p>In March 2025, we held our the TRUST open lecture in Cologne, presented by <a href="https://research.ugent.be/web/person/marc-brysbaert-0/en">Prof. Marc Brysbaert</a> (Department of Experimental Psychology, Ghent University, Belgium) on the topic of <i>Increasing Replicability or Stalling Scientific Progress?</i>.</p>
   </div>
   <div>
     {% include figure.html image="/images/cologne.jpg" width="100%" %}
