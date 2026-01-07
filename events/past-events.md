@@ -28,9 +28,11 @@ subnav-image: "/images/international-conference.jpg"
   </div>
   <div>
     <h5>TeaP 2025 Symposia</h5>
-    <p>We organised three symposia at the 67th Annual Meeting of the General Psychology Section of the German Psychological Society (TeaP 2025), held in Frankfurt, Germany, from the 9th to the 12th of March 2025. The first symposium, organised by Jun.-Prof. Dr. Benjamin Gagl, was titled "From Babies to Semantics: Leveraing Language Models as Tools for Psycholinguistic Research". The second symposium, titled "Levels of Orthographic Representation: From Retina to Word Form", was organised by Dr. Jack Taylor and Mr. Janos Pauli. The third symposium, organised by Dr. Tanja Roembke and Dr. Xenia Schmalz, was titled "Statistical Learning and Its Role in Language and Reading Acquisition". Check out the event highlights!</p>
+    <p>We organised three symposia at the 67th Annual Meeting of the General Psychology Section of the German Psychological Society (TeaP 2025), held in Frankfurt, Germany, from the 9th to the 12th of March 2025.</p>
   </div>
 </div>
+
+<p>The first symposium, organised by Jun.-Prof. Dr. Benjamin Gagl, was titled "From Babies to Semantics: Leveraing Language Models as Tools for Psycholinguistic Research". The second symposium, titled "Levels of Orthographic Representation: From Retina to Word Form", was organised by Dr. Jack Taylor and Mr. Janos Pauli. The third symposium, organised by Dr. Tanja Roembke and Dr. Xenia Schmalz, was titled "Statistical Learning and Its Role in Language and Reading Acquisition". Check out the event highlights!</p>
 
 <hr>
 
