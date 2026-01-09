@@ -2,7 +2,7 @@
 title: The German Lexicon Project
 excerpt: "The German Lexicon Project (GLP) is a new, collaborative initiative for collecting large-scale lexical decision data for German words. The GLP is modeled on successful examples such as the English (Balota et al., 2007), Dutch (Keuleers et al., 2010), and British (Keuleers et al., 2012) Lexicon Projects and aims to create an open, high-quality resource for the psycholinguistic research community."
 subnav-image: "/images/GLPLogo.jpg"
-feature_image: "images/GLPLogo.jpg"
+feature_image: "/images/GLPLogo.jpg"
 ---
 
 The German Lexicon Project (GLP) is a new, collaborative initiative for collecting large-scale lexical decision data for German words. The GLP is modeled on successful examples such as the English (Balota et al., [2007](http://doi.org/10.3758/BF03193014)), Dutch (Keuleers et al., [2010](https://doi.org/10.3389/fpsyg.2010.00174)), and British (Keuleers et al., [2012](http://doi.org/10.3758/s13428-011-0118-4)) Lexicon Projects and aims to create an open, high-quality resource for the psycholinguistic research community.
