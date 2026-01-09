@@ -9,6 +9,10 @@ The TRUST network aims to build a transparent, transferable, and sustainable fou
 
 We have regular meetings during which we strive to develop best practice guides for single-word reading research in German. Our long-term goal is to establish a Reading Research Center in Germany.
 
+### [The German Lexicon Project](/glp)
+
+One of the largest projects to come out of TRUST is the [German Lexicon Project](/glp): a large-scale collaboraitive initiative to collect lexical decision data for German words. Data collection for this project is currently ongoing.
+
 ### The TRUST Network Mission
 
 <div style="display: block; margin: auto;">
