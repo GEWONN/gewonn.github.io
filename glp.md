@@ -8,7 +8,7 @@ feature_image: "images/GLPLogo.jpg"
 The German Lexicon Project (GLP) is a new, collaborative initiative for collecting large-scale lexical decision data for German words. The GLP is modeled on successful examples such as the English (Balota et al., [2007](http://doi.org/10.3758/BF03193014)), Dutch (Keuleers et al., [2010](https://doi.org/10.3389/fpsyg.2010.00174)), and British (Keuleers et al., [2012](http://doi.org/10.3758/s13428-011-0118-4)) Lexicon Projects and aims to create an open, high-quality resource for the psycholinguistic research community.
 
 As a core group that emerged from the DFG network [TRUST](/trust), we developed stimuli and programmed an online experiment that is hosted by Humboldt University in Berlin. In preparing the study, we followed the guidelines that were created by the TRUST network. Data collection started in December 2025 and is currently ongoing.
-The progress of data collection can be tracked here: https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring
+The progress of data collection can be tracked here: [https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring](https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring)
 
 <div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
   <div>
