@@ -1,8 +1,8 @@
 ---
 title: The TRUST Network
 excerpt: "The TRUST network aims to build a transparent, transferable, and sustainable foundation for psycholinguistic reading studies in German. The Network will bring together more than 20 researchers in the field to develop transferable and sustainable guidelines for researchers to address critical challenges, including methodological robustness, reproducibility, generalisability, and statistical power."
-subnav-image: "/images/TrustLogo.jpg"
-feature_image: "images/TrustLogo.jpg"
+subnav-image: "/images/TRUSTLogo.jpg"
+feature_image: "images/TRUSTLogo.jpg"
 ---
 
 The TRUST network aims to build a transparent, transferable, and sustainable foundation for psycholinguistic reading studies in German. The Network will bring together [more than 20 researchers](/trust-members) in the field to develop transferable and sustainable guidelines for researchers to address critical challenges, including methodological robustness, reproducibility, generalisability, and statistical power. The project will run for three years and provide funding for regular meetings for the network members. TRUST is funded by the German Research Foundation (DFG) and will run under the umbrella of GeWoNN. 
