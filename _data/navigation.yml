@@ -22,10 +22,10 @@ header:
 - title: TRUST Network
   url: /trust/
   subpages:
-  - title: TRUST Members
-    url: /trust-members/
   - title: German Lexicon Project
     url: /glp/
+  - title: TRUST Members
+    url: /trust-members/
 - title: Journal Club
   url: /journal-club/
 - title: 🔎︎
