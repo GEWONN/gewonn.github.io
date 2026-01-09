@@ -10,7 +10,7 @@ The German Lexicon Project (GLP) is a new, collaborative initiative for collecti
 As a core group that emerged from the DFG network [TRUST](/trust), we developed stimuli and programmed an online experiment that is hosted by Humboldt University in Berlin. In preparing the study, we followed the guidelines that were created by the TRUST network. Data collection started in December 2025 and is currently ongoing.
 The progress of data collection can be tracked here: https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring
 
-<div class="two-columns" style="--left-width: 40%; --right-width: 60%; --align-items: center;">
+<div class="two-columns" style="--left-width: 30%; --right-width: 70%; --align-items: center;">
   <div>
     When complete, the resulting open dataset will contain behavioral data from over a thousand participants, providing a robust resource to address fundamental questions about lexical, orthographic, and semantic processing in German.
   </div>
