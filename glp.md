@@ -15,7 +15,7 @@ The progress of data collection can be tracked here: https://github.com/schiekie
     When complete, the resulting open dataset will contain behavioral data from over a thousand participants, providing a robust resource to address fundamental questions about lexical, orthographic, and semantic processing in German.
   </div>
   <div style="display: block; margin: auto;">
-    {% include figure.html image="https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring/blob/main/plots/data_collection_progress.png" width="100%" caption="Data collection so far." %}
+    {% include figure.html image="https://raw.githubusercontent.com/schiekiera/German_Lexicon_Multilab_Monitoring/refs/heads/main/plots/data_collection_progress.png" width="100%" caption="Data collection so far." %}
   </div>
 </div>
 
