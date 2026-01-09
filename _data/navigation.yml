@@ -19,13 +19,15 @@ header:
     url: /events/teap-2026/
   - title: Past Events
     url: /events/past-events/
-- title: TRUST Network
+- title: TRUST
   url: /trust/
   subpages:
+  - title: TRUST Network
+    url: /trust/network/
   - title: German Lexicon Project
-    url: /glp/
+    url: /trust/glp/
   - title: TRUST Members
-    url: /trust-members/
+    url: /trust/members/
 - title: Journal Club
   url: /journal-club/
 - title: 🔎︎
