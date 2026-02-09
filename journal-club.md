@@ -26,7 +26,7 @@ subnav-image: "/images/journal-club.jpg"
 ### Next Meeting:
 ### March 6, 2026 (Wednesday), 11:00 am–12:00 pm (CET)
 
-Guest Talk by *Katharina von Kriegstein (TU Dresden) *
+Guest Talk by *Katharina von Kriegstein (TU Dresden)*
 
 The role of sensory thalami and cortico-thalamic connections in developmental dyslexia
 
