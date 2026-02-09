@@ -24,18 +24,16 @@ subnav-image: "/images/journal-club.jpg"
 <hr>
 
 ### Next Meeting:
-### January 21, 2026 (Wednesday), 9:00 am–10:00 pm (CET)
+### March 6, 2026 (Wednesday), 11:00 am–12:00 pm (CET)
 
-Guest Talk by *Dr Kurt Winsler (University of California, Davis)*
+Guest Talk by *Katharina von Kriegstein (TU Dresden) *
 
-Experience-dependent Changes in the Visual Processing of Letters: Evidence from Electroencephalography Decoding
-
-Link to the paper: [http://doi.org/10.1162/JOCN.a.99](http://doi.org/10.1162/JOCN.a.99)
+The role of sensory thalami and cortico-thalamic connections in developmental dyslexia
 
 ##### Abstract
 
 <div style="font-size: 1rem; line-height: 1.2rem; padding-top: 1rem; margin-bottom: 1.5rem;">
-Learning to read involves the formation and tuning of letter representations, but it is unknown whether this orthographic tuning influences very early visual processing or only later processing. I will talk about a study which tested the hypothesis that experience increases the extraction of sensory information about letters by comparing the EEG activity elicited by upright and inverted letters. In a set of conventional univariate analyses, we found that inverted letters elicited larger P1 amplitudes (starting ca. 110 msec) and larger N170 amplitudes (starting ca.160 msec) compared with upright letters. These larger amplitudes could reflect enhanced processing, but they might instead reflect degraded processing. We therefore performed multivariate pattern classification (decoding) to assess the amount of information about letter identity in the neural signal. Specifically, we decoded which individual letter was presented from the pattern of voltage across the scalp at each time point. We found that decoding accuracy was greater for upright letters than for inverted letters during the P1 latency range (starting ca. 90 msec), particularly in electrodes over the left hemisphere and for letters presented foveally and in the right visual field. This provides evidence for enhanced tuning for upright letters in early visual processing. By contrast, we found higher decoding accuracy for inverted letters than for upright letters during and after the N170 component (starting ca.140 msec). These results demonstrate that massive experience with upright letters influences sensory processing, leading to enhanced feature extraction for highly familiar (upright) letter forms at an early stage, followed by enhanced neural discriminability for less familiar (inverted) letter forms at a later stage.
+Developmental dyslexia is a specific reading disorder with a high prevalence. It often has a substantial impact on the psychosocial well-being and academic achievement of affected individuals. Contemporary research characterizes developmental dyslexia as a multifactorial condition with phonological processing difficulties playing a central role. Neuroscientific research focuses often on explaining developmental dyslexia at the level of the cerebral cortex. However, this cortical focus leaves potential contributions from subcortical structures largely unexplained, particularly those of the sensory thalamus. In this talk, I will first summarize our work on the role of the auditory and visual sensory thalami, namely the medial geniculate body (MGB) and the lateral geniculate nucleus (LGN) in phonological and visual speech processing. I will then show that developmental dyslexia is characterised by alterations in these structures and that these alterations are related to key symptoms of developmental dyslexia.
 </div>
 
 <hr>
