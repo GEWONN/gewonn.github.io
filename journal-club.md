@@ -24,7 +24,7 @@ subnav-image: "/images/journal-club.jpg"
 <hr>
 
 ### Next Meeting:
-### March 6, 2026 (Wednesday), 11:00 am–12:00 pm (CET)
+### March 6, 2026 (Friday), 11:00 am–12:00 pm (CET)
 
 Guest Talk by *Katharina von Kriegstein (TU Dresden)*
 
