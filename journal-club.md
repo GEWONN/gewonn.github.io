@@ -17,23 +17,22 @@ subnav-image: "/images/journal-club.jpg"
 <h5>Journal Club Organisers</h5>
 
 <ul style="padding-left: 1.2rem">
-  <li>Anna Leung (Ludwig-Maximilians-University of Munich, Germany)</li>
   <li>Jack E. Taylor (Goethe University Frankfurt, Germany)</li>
 </ul>
 
 <hr>
 
 ### Next Meeting:
-### March 6, 2026 (Friday), 11:00 am–12:00 pm (CET)
+### March 24, 2026 (Tuesday), 11:00 am–12:00 pm (CET)
 
-Guest Talk by *Katharina von Kriegstein (TU Dresden)*
+Guest Talk by *Daria Kostanian (Sirius University of Science and Technology)*
 
-The role of sensory thalami and cortico-thalamic connections in developmental dyslexia
+Development of coarse- and orientation-tuning for native letters in children
 
 ##### Abstract
 
 <div style="font-size: 1rem; line-height: 1.2rem; padding-top: 1rem; margin-bottom: 1.5rem;">
-Developmental dyslexia is a specific reading disorder with a high prevalence. It often has a substantial impact on the psychosocial well-being and academic achievement of affected individuals. Contemporary research characterizes developmental dyslexia as a multifactorial condition with phonological processing difficulties playing a central role. Neuroscientific research focuses often on explaining developmental dyslexia at the level of the cerebral cortex. However, this cortical focus leaves potential contributions from subcortical structures largely unexplained, particularly those of the sensory thalamus. In this talk, I will first summarize our work on the role of the auditory and visual sensory thalami, namely the medial geniculate body (MGB) and the lateral geniculate nucleus (LGN) in phonological and visual speech processing. I will then show that developmental dyslexia is characterised by alterations in these structures and that these alterations are related to key symptoms of developmental dyslexia.
+We investigated neurophysiological letter coding in typically developing children (3.6—9.3 years) using an oddball fast periodic visual stimulation. By measuring neural discrimination responses to non-native (Georgian) letters embedded in streams of native (Russian) letters, it was found that even pre-readers show automatic discrimination of native from foreign scripts. In contrast, sensitivity to the standard orientation of native letters, as measured by the detection of inverted letters among upright Russian letters, emerged only after the onset of reading instruction and increased with age. These findings reveal two distinct trajectories in visual letter tuning: an early-emerging, coarse tuning driven by environmental exposure, and a more fine orientation tuning that depends on active reading acquisition.
 </div>
 
 <hr>
