@@ -23,7 +23,7 @@ subnav-image: "/images/journal-club.jpg"
 <hr>
 
 ### Next Meeting:
-### March 24, 2026 (Friday), 10:00 am–11:00 am (CET)
+### April 24, 2026 (Friday), 10:00 am–11:00 am (CET)
 
 Paper Discussion moderated by *Dr Xenia Schmalz (Technische Universität Darmstadt)*
 
