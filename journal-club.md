@@ -23,16 +23,18 @@ subnav-image: "/images/journal-club.jpg"
 <hr>
 
 ### Next Meeting:
-### March 24, 2026 (Tuesday), 11:00 am–12:00 pm (CET)
+### March 24, 2026 (Friday), 10:00 am–11:00 am (CET)
 
-Guest Talk by *Daria Kostanian (Sirius University of Science and Technology)*
+Paper Discussion moderated by *Dr Xenia Schmalz (Technische Universität Darmstadt)*
 
-Development of coarse- and orientation-tuning for native letters in children
+> Bethke et al. (2025). IDLaS-DE – A Web-Based Platform for Running Customized Studies on Individual Differences in German Language Skills. http://doi.org/10.5334/joc.468
 
-##### Abstract
+##### Abstract / Info
 
 <div style="font-size: 1rem; line-height: 1.2rem; padding-top: 1rem; margin-bottom: 1.5rem;">
-We investigated neurophysiological letter coding in typically developing children (3.6—9.3 years) using an oddball fast periodic visual stimulation. By measuring neural discrimination responses to non-native (Georgian) letters embedded in streams of native (Russian) letters, it was found that even pre-readers show automatic discrimination of native from foreign scripts. In contrast, sensitivity to the standard orientation of native letters, as measured by the detection of inverted letters among upright Russian letters, emerged only after the onset of reading instruction and increased with age. These findings reveal two distinct trajectories in visual letter tuning: an early-emerging, coarse tuning driven by environmental exposure, and a more fine orientation tuning that depends on active reading acquisition.
+The paper is available here: http://doi.org/10.5334/joc.468
+
+The platform can be accessed here: https://www.mpi.nl/idlas-de
 </div>
 
 <hr>
