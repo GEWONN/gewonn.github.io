@@ -32,9 +32,9 @@ Paper Discussion moderated by *Dr Xenia Schmalz (Technische Universität Darmsta
 ##### Abstract / Info
 
 <div style="font-size: 1rem; line-height: 1.2rem; padding-top: 1rem; margin-bottom: 1.5rem;">
-The paper is available here: http://doi.org/10.5334/joc.468
+The paper is available here: <a href="http://doi.org/10.5334/joc.468">http://doi.org/10.5334/joc.468</a>
 
-The platform can be accessed here: https://www.mpi.nl/idlas-de
+The platform can be accessed here: <a href="https://www.mpi.nl/idlas-de">https://www.mpi.nl/idlas-de</a>
 </div>
 
 <hr>
