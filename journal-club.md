@@ -25,16 +25,14 @@ subnav-image: "/images/journal-club.jpg"
 ### Next Meeting:
 ### April 24, 2026 (Friday), 10:00 am–11:00 am (CET)
 
-Paper Discussion moderated by *Dr Xenia Schmalz (Technische Universität Darmstadt)*
+Paper Discussion moderated by *Dr Jack E. Taylor (Goethe University Frankfurt)*
 
-> Bethke et al. (2025). IDLaS-DE – A Web-Based Platform for Running Customized Studies on Individual Differences in German Language Skills. http://doi.org/10.5334/joc.468
+> Morsanyi et al. (2025). Toward an Improved Understanding of Dyslexia: Reflections on a New Consensus Definition and Its Implications. https://doi.org/10.1002/dys.70022
 
 ##### Abstract / Info
 
 <div style="font-size: 1rem; line-height: 1.2rem; padding-top: 1rem; margin-bottom: 1.5rem;">
-The paper is available here: <a href="http://doi.org/10.5334/joc.468">http://doi.org/10.5334/joc.468</a>
-
-The platform can be accessed here: <a href="https://www.mpi.nl/idlas-de">https://www.mpi.nl/idlas-de</a>
+The paper is available here: <a href="https://doi.org/10.1002/dys.70022">https://doi.org/10.1002/dys.70022</a>
 </div>
 
 <hr>
