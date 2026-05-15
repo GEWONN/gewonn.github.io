@@ -23,7 +23,7 @@ subnav-image: "/images/journal-club.jpg"
 <hr>
 
 ### Next Meeting:
-### April 24, 2026 (Friday), 10:00 am–11:00 am (CET)
+### May 22, 2026 (Friday), 10:00 am–11:00 am (CET)
 
 Paper Discussion moderated by *Dr Jack E. Taylor (Goethe University Frankfurt)*
 
