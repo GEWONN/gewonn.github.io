@@ -11,7 +11,7 @@ We have regular meetings during which we strive to develop best practice guides 
 
 ### [The German Lexicon Project](/glp)
 
-One of the largest projects to come out of TRUST is the [German Lexicon Project](/glp): a large-scale collaboraitive initiative to collect lexical decision data for German words. Data collection for this project is currently ongoing.
+One of the largest projects to come out of TRUST is the [German Lexicon Project](/trust/glp): a large-scale collaboraitive initiative to collect lexical decision data for German words. Data collection for this project is currently ongoing.
 
 ### The TRUST Network Mission
 
