@@ -14,7 +14,7 @@ As a core group that emerged from the DFG network [TRUST](/trust), we developed 
     The resulting open dataset will contain behavioral data from over 2000 participants, providing a robust resource to address fundamental questions about lexical, orthographic, and semantic processing in German.
   </div>
   <div style="display: block; margin: auto;">
-    {% include figure.html image="https://raw.githubusercontent.com/schiekiera/German_Lexicon_Multilab_Monitoring/refs/heads/main/plots/overall_progress.png" width="100%" caption="GLP data collection over time (From the <a href="https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring">GLP data collection tracker</a>)." %}
+    {% include figure.html image="https://raw.githubusercontent.com/schiekiera/German_Lexicon_Multilab_Monitoring/refs/heads/main/plots/overall_progress.png" width="100%" caption="GLP data collection over time (From the <a href='https://github.com/schiekiera/German_Lexicon_Multilab_Monitoring'>GLP data collection tracker</a>)." %}
   </div>
 </div>
 
