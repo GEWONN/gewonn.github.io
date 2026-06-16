@@ -15,10 +15,10 @@ header:
 - title: Events
   url: /events/
   subpages:
-  - title: Upcoming
-    url: /events/upcoming/
   - title: Past Events
     url: /events/past-events/
+  - title: Upcoming
+    url: /events/upcoming/
 - title: TRUST
   url: /trust/
   subpages:
