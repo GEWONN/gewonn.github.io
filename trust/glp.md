@@ -18,4 +18,6 @@ As a core group that emerged from the DFG network [TRUST](/trust), we developed 
   </div>
 </div>
 
-We will share the dataset openly once the associated manuscript, data processing, and metadata are complete. You can contact Tanja Römbke ([tanja.roembke@psych.rwth-aachen.de](mailto:tanja.roembke@psych.rwth-aachen.de)) or Jana Hasenäcker ([jana.hasenaecker@uni-erfurt.de](mailto:jana.hasenaecker@uni-erfurt.de)) for more information.
+We will share the dataset openly once the associated manuscript, data processing, and metadata are complete.
+
+Data collection for (this stage of) the GLP is now complete, but we are planning future collaborations using the same network. If you are interested in getting involved, you can contact Tanja Römbke ([tanja.roembke@psych.rwth-aachen.de](mailto:tanja.roembke@psych.rwth-aachen.de)) or Jana Hasenäcker ([jana.hasenaecker@uni-erfurt.de](mailto:jana.hasenaecker@uni-erfurt.de)) for more information.
