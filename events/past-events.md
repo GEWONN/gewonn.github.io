@@ -6,6 +6,28 @@ subnav-image: "/images/international-conference.jpg"
 
 <br>
 
+<div class="two-columns" style="--left-width: 40%; --right-width: 60%; --align-items: center;">
+  <div>
+    
+  </div>
+  <div>
+    <h5>TeaP 2026 Symposia and Poster</h5>
+    <p>We organised six symposia at the 68th Annual Meeting of the General Psychology Section of the German Psychological Society (<a href="https://coms.app/teap26">TeaP 2026</a>)!. This TeaP was held in Tübingen, Germany.</p>
+  </div>
+</div>
+
+GeWoNN-affiliated symposia at TeaP26:
+1. New Trends in Word Learning: The Role of Prior Knowledge (*Matilde Ellen Simonetti, Tanja C. Roembke*)
+2. LLMs as Models of Whose Language? A Longitudinal Comparison of Child and LLM generated German Corpora (*Hanna Woloszyn, Benjamin Gagl*)
+3. Neuro-Cognitive Advances in Visual Word Recognition Research (*Benjamin Gagl*)
+4. Symbolic Representations in the Visual Pathway: From Numbers and Letters to Words and Semantics (*Jack E Taylor, Janos Pauli*)
+5. Language Models as Tools for Psycholinguistics (*Cosimo Iaia, Jack E Taylor*)
+6. Computational Models of Language Generation (*Hanna Woloszyn*)
+
+<hr>
+
+<br>
+
 <div class="two-columns" style="--left-width: 60%; --right-width: 40%; --align-items: center;">
   <div>
     <h5>TRUST Open Lecture 2025</h5>
