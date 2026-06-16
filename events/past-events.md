@@ -8,7 +8,7 @@ subnav-image: "/images/international-conference.jpg"
 
 <div class="two-columns" style="--left-width: 40%; --right-width: 60%; --align-items: center;">
   <div>
-    
+    {% include figure.html image="/images/tübingen.jpg" width="100%" %}
   </div>
   <div>
     <h5>TeaP 2026 Symposia and Poster</h5>
