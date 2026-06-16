@@ -12,7 +12,7 @@ subnav-image: "/images/international-conference.jpg"
   </div>
   <div>
     <h5>TeaP 2026 Symposia and Poster</h5>
-    <p>We organised six symposia at the 68th Annual Meeting of the General Psychology Section of the German Psychological Society (<a href="https://coms.app/teap26">TeaP 2026</a>)!. This TeaP was held in Tübingen, Germany.</p>
+    <p>Members of GeWoNN organised seven symposia at the 68th Annual Meeting of the General Psychology Section of the German Psychological Society (<a href="https://coms.app/teap26">TeaP 2026</a>)!. This TeaP was held in Tübingen, Germany.</p>
   </div>
 </div>
 
@@ -23,6 +23,7 @@ GeWoNN-affiliated symposia at TeaP26:
 4. Symbolic Representations in the Visual Pathway: From Numbers and Letters to Words and Semantics (*Jack E Taylor, Janos Pauli*)
 5. Language Models as Tools for Psycholinguistics (*Cosimo Iaia, Jack E Taylor*)
 6. Computational Models of Language Generation (*Hanna Woloszyn*)
+7. Computational and Neuroscience Approaches to Embodied and Grounded Cognition (*Fritz Günther, Markus Kiefer*)
 
 <hr>
 
