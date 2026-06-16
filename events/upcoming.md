@@ -1,5 +1,5 @@
 ---
-title: TeaP 2026
+title: Upcoming Events
 excerpt: ""
 subnav-image: "/images/international-conference.jpg"
 ---
