@@ -11,7 +11,7 @@ subnav-image: "/images/international-conference.jpg"
     {% include figure.html image="/images/tübingen.jpg" width="100%" %}
   </div>
   <div>
-    <h5>TeaP 2026 Symposia and Poster</h5>
+    <h5>TeaP 2026</h5>
     <p>Members of GeWoNN organised seven symposia at the 68th Annual Meeting of the General Psychology Section of the German Psychological Society (<a href="https://coms.app/teap26">TeaP 2026</a>)!. This TeaP was held in Tübingen, Germany.</p>
   </div>
 </div>
