@@ -23,7 +23,7 @@ subnav-image: "/images/journal-club.jpg"
 <hr>
 
 ### Next Meeting:
-### May 22, 2026 (Friday), 10:00 am–11:00 am (CET)
+### July 13, 2026 (Monday), 2:00 pm–3:00 pm (CET)
 
 Guest Talk by Aleksandra Boiko (*RWTH Aachen University*)
 
