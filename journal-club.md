@@ -25,14 +25,20 @@ subnav-image: "/images/journal-club.jpg"
 ### Next Meeting:
 ### May 22, 2026 (Friday), 10:00 am–11:00 am (CET)
 
-Paper Discussion moderated by *Dr Jack E. Taylor (Goethe University Frankfurt)*
+Guest Talk by Aleksandra Boiko (*RWTH Aachen University*)
 
-> Morsanyi et al. (2025). Toward an Improved Understanding of Dyslexia: Reflections on a New Consensus Definition and Its Implications. https://doi.org/10.1002/dys.70022
+> Examining The Effect Of Occipito-temporal Sulcus Morphology On Reading Performance In A Large Developmental Sample With And Without Developmental Dyslexia
 
 ##### Abstract / Info
 
 <div style="font-size: 1rem; line-height: 1.2rem; padding-top: 1rem; margin-bottom: 1.5rem;">
-The paper is available here: <a href="https://doi.org/10.1002/dys.70022">https://doi.org/10.1002/dys.70022</a>
+A growing body of results suggests that the morphology of macroanatomical features, such as sulci, is linked to cognitive abilities. In the domain of reading, prior research has suggested a positive relationship between interruptions (gaps) in the occipito-temporal sulcus (OTS) and reading proficiency. Yet, studies examining this relationship have yielded mixed findings. While some studies report longitudinally accumulating effects of OTS gaps on reading performance (Bouhali et al., 2025), others find no effect in large homogeneous samples (Roell et al., 2022), or suggest the structural advantage is restricted to highly literate individuals (Cachia et al., 2018).
+
+We aimed to clarify these discrepancies by examining the effect of OTS morphology on reading performance using a large, diverse developmental sample (n = 202, ages 6–21) from the publicly available Healthy Brain Network dataset, including individuals with developmental dyslexia.
+
+We defined posterior and anterior OTS gaps in each hemisphere blind to participant diagnosis and linked OTS gap presence to performance on a standardized reading test.
+
+Our findings show that the presence of an interrupted left anterior OTS was associated with significantly higher reading performance scores. However, this effect was only present in typical readers and when beginning readers were excluded. Conversely, in children with developmental dyslexia no significant performance difference between individuals with continuous and interrupted OTS morphology was found. These results may help reconcile inconsistencies in prior literature as they suggest that the functional advantage of anterior OTS interruptions may only manifest after reaching a specific level of reading proficiency.
 </div>
 
 <hr>
